@@ -3,7 +3,7 @@ const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
 const lodash = require("lodash");
 // const date = require(__dirname + "/date.js");
-require('dotenv').config();
+// require('dotenv').config();
 
 const app = express();
 
